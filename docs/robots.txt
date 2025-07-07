@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: irfan.github.io/sitemap.xml
