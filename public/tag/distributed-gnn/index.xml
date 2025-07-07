@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Distributed GNN | Irfan Ullah</title>
-    <link>irfan.github.io/tag/distributed-gnn/</link>
-      <atom:link href="irfan.github.io/tag/distributed-gnn/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/distributed-gnn/</link>
+      <atom:link href="/tag/distributed-gnn/index.xml" rel="self" type="application/rss+xml" />
     <description>Distributed GNN</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 31 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/irfan.github.io/media/icon_hu8e84cfbdf6271c45f2b184a518b00cf0_391650_512x512_fill_lanczos_center_3.png</url>
+      <url>/media/icon_hu8e84cfbdf6271c45f2b184a518b00cf0_391650_512x512_fill_lanczos_center_3.png</url>
       <title>Distributed GNN</title>
-      <link>irfan.github.io/tag/distributed-gnn/</link>
+      <link>/tag/distributed-gnn/</link>
     </image>
     
     <item>
       <title>GDLL: A Scalable and Share Nothing Architecture Based Distributed Graph Neural Networks Framework</title>
-      <link>irfan.github.io/publication/van-2022-gdll/</link>
+      <link>/publication/van-2022-gdll/</link>
       <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>irfan.github.io/publication/van-2022-gdll/</guid>
+      <guid>/publication/van-2022-gdll/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to download the Bibtex citation of the paper.

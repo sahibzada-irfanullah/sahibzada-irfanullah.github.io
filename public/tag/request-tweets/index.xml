@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Request tweets | Irfan Ullah</title>
-    <link>irfan.github.io/tag/request-tweets/</link>
-      <atom:link href="irfan.github.io/tag/request-tweets/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/request-tweets/</link>
+      <atom:link href="/tag/request-tweets/index.xml" rel="self" type="application/rss+xml" />
     <description>Request tweets</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 15 Aug 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/irfan.github.io/media/icon_hu8e84cfbdf6271c45f2b184a518b00cf0_391650_512x512_fill_lanczos_center_3.png</url>
+      <url>/media/icon_hu8e84cfbdf6271c45f2b184a518b00cf0_391650_512x512_fill_lanczos_center_3.png</url>
       <title>Request tweets</title>
-      <link>irfan.github.io/tag/request-tweets/</link>
+      <link>/tag/request-tweets/</link>
     </image>
     
     <item>
       <title>RweetMiner: Automatic Identification and Categorization of Help Requests on Twitter during Disasters</title>
-      <link>irfan.github.io/publication/ullah-2021-rweetminer/</link>
+      <link>/publication/ullah-2021-rweetminer/</link>
       <pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>irfan.github.io/publication/ullah-2021-rweetminer/</guid>
+      <guid>/publication/ullah-2021-rweetminer/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to download the Bibtex citation of the paper.

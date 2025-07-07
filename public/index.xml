@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Irfan Ullah</title>
-    <link>irfan.github.io/</link>
-      <atom:link href="irfan.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Irfan Ullah</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/irfan.github.io/media/icon_hu8e84cfbdf6271c45f2b184a518b00cf0_391650_512x512_fill_lanczos_center_3.png</url>
+      <url>/media/icon_hu8e84cfbdf6271c45f2b184a518b00cf0_391650_512x512_fill_lanczos_center_3.png</url>
       <title>Irfan Ullah</title>
-      <link>irfan.github.io/</link>
+      <link>/</link>
     </image>
     
     <item>
       <title>MQ-GNN: A Multi-Queue Pipelined Architecture for Scalable and Efficient GNN Training</title>
-      <link>irfan.github.io/publication/irfan-2025-mqgnn/</link>
+      <link>/publication/irfan-2025-mqgnn/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>irfan.github.io/publication/irfan-2025-mqgnn/</guid>
+      <guid>/publication/irfan-2025-mqgnn/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to download the Bibtex citation of the paper.
@@ -32,9 +32,9 @@
     
     <item>
       <title>Graph Neural Network Learning Device and Method for Dynamic Adaptive Fan-out</title>
-      <link>irfan.github.io/publication/ullah-2024-graphnnlearning/ullah2024graphnnlearning/</link>
+      <link>/publication/ullah-2024-graphnnlearning/ullah2024graphnnlearning/</link>
       <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>irfan.github.io/publication/ullah-2024-graphnnlearning/ullah2024graphnnlearning/</guid>
+      <guid>/publication/ullah-2024-graphnnlearning/ullah2024graphnnlearning/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     This is a patent application.
@@ -45,9 +45,9 @@
     
     <item>
       <title>Request Message Classification Device and Method</title>
-      <link>irfan.github.io/publication/ullah-2021-requestmessage/ullah2021requestmessage/</link>
+      <link>/publication/ullah-2021-requestmessage/ullah2021requestmessage/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>irfan.github.io/publication/ullah-2021-requestmessage/ullah2021requestmessage/</guid>
+      <guid>/publication/ullah-2021-requestmessage/ullah2021requestmessage/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     This is a patent application. Click &lt;em&gt;URL&lt;/em&gt; above to view details.
@@ -58,9 +58,9 @@
     
     <item>
       <title>Methods and Devices for Graph Neural Network Training Using Graph Reconstruction</title>
-      <link>irfan.github.io/publication/ullah-2024-methodsdevices/ullah2024methodsdevices/</link>
+      <link>/publication/ullah-2024-methodsdevices/ullah2024methodsdevices/</link>
       <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>irfan.github.io/publication/ullah-2024-methodsdevices/ullah2024methodsdevices/</guid>
+      <guid>/publication/ullah-2024-methodsdevices/ullah2024methodsdevices/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     This is a patent application.
@@ -71,9 +71,9 @@
     
     <item>
       <title>DAFOS: Dynamic Adaptive Fanout Optimization Sampler</title>
-      <link>irfan.github.io/publication/irfan-2024-dafos/</link>
+      <link>/publication/irfan-2024-dafos/</link>
       <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>irfan.github.io/publication/irfan-2024-dafos/</guid>
+      <guid>/publication/irfan-2024-dafos/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to download the Bibtex citation of the paper.
@@ -89,9 +89,9 @@
     
     <item>
       <title>Apparatus and Method for Supporting Graph Neural Network Learning</title>
-      <link>irfan.github.io/publication/ullah-2024-apparatusmethod/ullah2024apparatusmethod/</link>
+      <link>/publication/ullah-2024-apparatusmethod/ullah2024apparatusmethod/</link>
       <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>irfan.github.io/publication/ullah-2024-apparatusmethod/ullah2024apparatusmethod/</guid>
+      <guid>/publication/ullah-2024-apparatusmethod/ullah2024apparatusmethod/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     This is a patent application.
@@ -102,9 +102,9 @@
     
     <item>
       <title>A Multi-Queued and Layer Resource-Efficient Training of Graph Neural Networks over Multiple GPUs</title>
-      <link>irfan.github.io/publication/ullah-2023-multiqueued/ullah2023multiqueued/</link>
+      <link>/publication/ullah-2023-multiqueued/ullah2023multiqueued/</link>
       <pubDate>Tue, 19 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>irfan.github.io/publication/ullah-2023-multiqueued/ullah2023multiqueued/</guid>
+      <guid>/publication/ullah-2023-multiqueued/ullah2023multiqueued/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     This is a patent application.
@@ -115,9 +115,9 @@
     
     <item>
       <title>Precise Single-stage Detector</title>
-      <link>irfan.github.io/publication/aisha-2020-precise/</link>
+      <link>/publication/aisha-2020-precise/</link>
       <pubDate>Sun, 09 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>irfan.github.io/publication/aisha-2020-precise/</guid>
+      <guid>/publication/aisha-2020-precise/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to download the Bibtex citation of the paper.
@@ -133,17 +133,17 @@
     
     <item>
       <title>Distributed Disaster Response System</title>
-      <link>irfan.github.io/project/disaster-response/</link>
+      <link>/project/disaster-response/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>irfan.github.io/project/disaster-response/</guid>
+      <guid>/project/disaster-response/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GDLL: A Scalable and Share Nothing Architecture Based Distributed Graph Neural Networks Framework</title>
-      <link>irfan.github.io/publication/van-2022-gdll/</link>
+      <link>/publication/van-2022-gdll/</link>
       <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>irfan.github.io/publication/van-2022-gdll/</guid>
+      <guid>/publication/van-2022-gdll/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to download the Bibtex citation of the paper.
@@ -159,9 +159,9 @@
     
     <item>
       <title>RweetMiner: Automatic Identification and Categorization of Help Requests on Twitter during Disasters</title>
-      <link>irfan.github.io/publication/ullah-2021-rweetminer/</link>
+      <link>/publication/ullah-2021-rweetminer/</link>
       <pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>irfan.github.io/publication/ullah-2021-rweetminer/</guid>
+      <guid>/publication/ullah-2021-rweetminer/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to download the Bibtex citation of the paper.
@@ -182,17 +182,17 @@
     
     <item>
       <title>Accuracy Optimization of ODK Scan Tool</title>
-      <link>irfan.github.io/project/odk-app/</link>
+      <link>/project/odk-app/</link>
       <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
-      <guid>irfan.github.io/project/odk-app/</guid>
+      <guid>/project/odk-app/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Video Big Data Analytics in the Cloud: Research Issues and Challenges</title>
-      <link>irfan.github.io/publication/alam-2021-video/</link>
+      <link>/publication/alam-2021-video/</link>
       <pubDate>Sat, 13 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>irfan.github.io/publication/alam-2021-video/</guid>
+      <guid>/publication/alam-2021-video/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to download the Bibtex citation of the paper.
@@ -226,9 +226,9 @@ title = &amp;ldquo;Video big data analytics in the cloud: A reference architectu
     
     <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
-      <link>irfan.github.io/post/getting-started/</link>
+      <link>/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>irfan.github.io/post/getting-started/</guid>
+      <guid>/post/getting-started/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
@@ -306,9 +306,9 @@ title = &amp;ldquo;Video big data analytics in the cloud: A reference architectu
     
     <item>
       <title>Hello R Markdown</title>
-      <link>irfan.github.io/post/2020-12-01-r-rmarkdown/</link>
+      <link>/post/2020-12-01-r-rmarkdown/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
-      <guid>irfan.github.io/post/2020-12-01-r-rmarkdown/</guid>
+      <guid>/post/2020-12-01-r-rmarkdown/</guid>
       <description>&lt;h1 id=&#34;r-markdown&#34;&gt;R Markdown&lt;/h1&gt;
 &lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href=&#34;http://rmarkdown.rstudio.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;You can embed an R code chunk like this:&lt;/p&gt;
@@ -339,7 +339,7 @@ title = &amp;ldquo;Video big data analytics in the cloud: A reference architectu
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;n&#34;&gt;init.angle&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;-50&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;border&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;NA&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;figure&#34;&gt;
-&lt;img src=&#34;irfan.github.io/post/2020-12-01-r-rmarkdown/index.en_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
+&lt;img src=&#34;./post/2020-12-01-r-rmarkdown/index.en_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;Figure 1: A fancy pie chart.&lt;/p&gt;
 &lt;/div&gt;
 </description>
@@ -347,9 +347,9 @@ title = &amp;ldquo;Video big data analytics in the cloud: A reference architectu
     
     <item>
       <title>Video big data analytics in the cloud: A reference architecture, survey, opportunities, and open research issues</title>
-      <link>irfan.github.io/publication/alam-2020-video-1/</link>
+      <link>/publication/alam-2020-video-1/</link>
       <pubDate>Mon, 17 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>irfan.github.io/publication/alam-2020-video-1/</guid>
+      <guid>/publication/alam-2020-video-1/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to download the Bibtex citation of the paper.
@@ -365,9 +365,9 @@ title = &amp;ldquo;Video big data analytics in the cloud: A reference architectu
     
     <item>
       <title>Statistical Analysis And Inference On Fourteen Most Effected Countries On Polio Data: A Ecological Study</title>
-      <link>irfan.github.io/publication/khan-2020-statistical/</link>
+      <link>/publication/khan-2020-statistical/</link>
       <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>irfan.github.io/publication/khan-2020-statistical/</guid>
+      <guid>/publication/khan-2020-statistical/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to download the Bibtex citation of the paper.
@@ -388,9 +388,9 @@ title = &amp;ldquo;Video big data analytics in the cloud: A reference architectu
     
     <item>
       <title>An improved co-training approach for document Sentiment classification</title>
-      <link>irfan.github.io/publication/khan-2020-improved/</link>
+      <link>/publication/khan-2020-improved/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>irfan.github.io/publication/khan-2020-improved/</guid>
+      <guid>/publication/khan-2020-improved/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to download the Bibtex citation of the paper.
@@ -406,25 +406,25 @@ title = &amp;ldquo;Video big data analytics in the cloud: A reference architectu
     
     <item>
       <title>Distributed Disaster Response System Architecture</title>
-      <link>irfan.github.io/talk/distributed-disaster-response-system-architecture/</link>
+      <link>/talk/distributed-disaster-response-system-architecture/</link>
       <pubDate>Fri, 01 Nov 2019 13:00:00 +0000</pubDate>
-      <guid>irfan.github.io/talk/distributed-disaster-response-system-architecture/</guid>
+      <guid>/talk/distributed-disaster-response-system-architecture/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Seminar on Memory Prefetching for Boosting Execution Performance</title>
-      <link>irfan.github.io/talk/seminar-on-memory-prefetching-for-boosting-execution-performance/</link>
+      <link>/talk/seminar-on-memory-prefetching-for-boosting-execution-performance/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>irfan.github.io/talk/seminar-on-memory-prefetching-for-boosting-execution-performance/</guid>
+      <guid>/talk/seminar-on-memory-prefetching-for-boosting-execution-performance/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Writing technical content in Markdown</title>
-      <link>irfan.github.io/post/writing-technical-content/</link>
+      <link>/post/writing-technical-content/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>irfan.github.io/post/writing-technical-content/</guid>
+      <guid>/post/writing-technical-content/</guid>
       <description>&lt;p&gt;Wowchemy is designed to give technical content creators a seamless experience. You can focus on the content and Wowchemy handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Wowchemy.&lt;/p&gt;
@@ -524,7 +524,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-693521478&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-648215793&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -534,7 +534,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-693521478&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-648215793&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -816,17 +816,17 @@ Crash --&gt; [*]
     
     <item>
       <title>Application for Uniformly Accelerated Kinematics</title>
-      <link>irfan.github.io/project/uams/</link>
+      <link>/project/uams/</link>
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>irfan.github.io/project/uams/</guid>
+      <guid>/project/uams/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Display Jupyter Notebooks with Academic</title>
-      <link>irfan.github.io/post/jupyter/</link>
+      <link>/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>irfan.github.io/post/jupyter/</guid>
+      <guid>/post/jupyter/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;from&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;IPython.core.display&lt;/span&gt; &lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Image&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;Image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;
@@ -883,9 +883,9 @@ Crash --&gt; [*]
     
     <item>
       <title>Slides</title>
-      <link>irfan.github.io/slides/example/</link>
+      <link>/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>irfan.github.io/slides/example/</guid>
+      <guid>/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://wowchemy.com/docs/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -1008,9 +1008,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>Higher-Level Context Inferences based on Ontology For Intelligent Video Surveillance</title>
-      <link>irfan.github.io/publication/alam-2019-higher/</link>
+      <link>/publication/alam-2019-higher/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>irfan.github.io/publication/alam-2019-higher/</guid>
+      <guid>/publication/alam-2019-higher/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to download the Bibtex citation of the paper.
@@ -1026,25 +1026,25 @@ $$&lt;/p&gt;
     
     <item>
       <title>Web Scraping and NLP for Data Science (3 days)</title>
-      <link>irfan.github.io/talk/web-scraping-and-nlp-for-data-science-3-days/</link>
+      <link>/talk/web-scraping-and-nlp-for-data-science-3-days/</link>
       <pubDate>Wed, 01 Aug 2018 10:00:00 +0000</pubDate>
-      <guid>irfan.github.io/talk/web-scraping-and-nlp-for-data-science-3-days/</guid>
+      <guid>/talk/web-scraping-and-nlp-for-data-science-3-days/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Machine Learning with Python on Text</title>
-      <link>irfan.github.io/talk/machine-learning-with-python-on-text/</link>
+      <link>/talk/machine-learning-with-python-on-text/</link>
       <pubDate>Sun, 01 Apr 2018 12:00:00 +0000</pubDate>
-      <guid>irfan.github.io/talk/machine-learning-with-python-on-text/</guid>
+      <guid>/talk/machine-learning-with-python-on-text/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Adaptive thresholding technique for segmentation and juxtapleural nodules inclusion in lung segments</title>
-      <link>irfan.github.io/publication/jamil-2016-adaptive/</link>
+      <link>/publication/jamil-2016-adaptive/</link>
       <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>irfan.github.io/publication/jamil-2016-adaptive/</guid>
+      <guid>/publication/jamil-2016-adaptive/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to download the Bibtex citation of the paper.
@@ -1060,9 +1060,9 @@ $$&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>irfan.github.io/admin/config.yml</link>
+      <link>/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>irfan.github.io/admin/config.yml</guid>
+      <guid>/admin/config.yml</guid>
       <description></description>
     </item>
     

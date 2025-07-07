@@ -2,355 +2,355 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>irfan.github.io/publication-type/2/</loc>
+    <loc>/publication-type/2/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>irfan.github.io/tag/gnn/</loc>
+    <loc>/tag/gnn/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>irfan.github.io/tag/graph-neural-networks/</loc>
+    <loc>/tag/graph-neural-networks/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>irfan.github.io/</loc>
+    <loc>/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>irfan.github.io/publication/irfan-2025-mqgnn/</loc>
+    <loc>/publication/irfan-2025-mqgnn/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>irfan.github.io/tag/multi-gpu/</loc>
+    <loc>/tag/multi-gpu/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>irfan.github.io/publication_types/</loc>
+    <loc>/publication_types/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>irfan.github.io/publication/</loc>
+    <loc>/publication/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>irfan.github.io/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>irfan.github.io/tag/training/</loc>
+    <loc>/tag/training/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>irfan.github.io/publication/ullah-2024-graphnnlearning/ullah2024graphnnlearning/</loc>
+    <loc>/publication/ullah-2024-graphnnlearning/ullah2024graphnnlearning/</loc>
     <lastmod>2024-12-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>irfan.github.io/publication/ullah-2021-requestmessage/ullah2021requestmessage/</loc>
+    <loc>/publication/ullah-2021-requestmessage/ullah2021requestmessage/</loc>
     <lastmod>2024-12-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>irfan.github.io/publication/ullah-2024-methodsdevices/ullah2024methodsdevices/</loc>
+    <loc>/publication/ullah-2024-methodsdevices/ullah2024methodsdevices/</loc>
     <lastmod>2024-12-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>irfan.github.io/publication/irfan-2024-dafos/</loc>
+    <loc>/publication/irfan-2024-dafos/</loc>
     <lastmod>2024-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>irfan.github.io/publication/ullah-2024-apparatusmethod/ullah2024apparatusmethod/</loc>
+    <loc>/publication/ullah-2024-apparatusmethod/ullah2024apparatusmethod/</loc>
     <lastmod>2024-01-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>irfan.github.io/publication/ullah-2023-multiqueued/ullah2023multiqueued/</loc>
+    <loc>/publication/ullah-2023-multiqueued/ullah2023multiqueued/</loc>
     <lastmod>2023-12-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>irfan.github.io/publication-type/3/</loc>
+    <loc>/publication-type/3/</loc>
     <lastmod>2022-10-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>irfan.github.io/tag/deep-learning-dl/</loc>
+    <loc>/tag/deep-learning-dl/</loc>
     <lastmod>2022-10-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>irfan.github.io/tag/deep-convolutional-neural-networks-d-cnns/</loc>
+    <loc>/tag/deep-convolutional-neural-networks-d-cnns/</loc>
     <lastmod>2022-10-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>irfan.github.io/tag/machine-learning-ml/</loc>
+    <loc>/tag/machine-learning-ml/</loc>
     <lastmod>2022-10-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>irfan.github.io/tag/objection-detectionod/</loc>
+    <loc>/tag/objection-detectionod/</loc>
     <lastmod>2022-10-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>irfan.github.io/tag/precise-single-stage-detector-pssd/</loc>
+    <loc>/tag/precise-single-stage-detector-pssd/</loc>
     <lastmod>2022-10-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>irfan.github.io/publication/aisha-2020-precise/</loc>
+    <loc>/publication/aisha-2020-precise/</loc>
     <lastmod>2022-10-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>irfan.github.io/tag/deep-learning/</loc>
+    <loc>/tag/deep-learning/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>irfan.github.io/project/disaster-response/</loc>
+    <loc>/project/disaster-response/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>irfan.github.io/project/</loc>
+    <loc>/project/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>irfan.github.io/tag/distributed-gnn/</loc>
+    <loc>/tag/distributed-gnn/</loc>
     <lastmod>2022-01-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>irfan.github.io/publication/van-2022-gdll/</loc>
+    <loc>/publication/van-2022-gdll/</loc>
     <lastmod>2022-01-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>irfan.github.io/tag/gig-graph-learning/</loc>
+    <loc>/tag/gig-graph-learning/</loc>
     <lastmod>2022-01-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>irfan.github.io/tag/graph-learning/</loc>
+    <loc>/tag/graph-learning/</loc>
     <lastmod>2022-01-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>irfan.github.io/tag/large-scale-graph/</loc>
+    <loc>/tag/large-scale-graph/</loc>
     <lastmod>2022-01-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>irfan.github.io/tag/disaster-response/</loc>
+    <loc>/tag/disaster-response/</loc>
     <lastmod>2021-08-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>irfan.github.io/tag/intermediate-data/</loc>
+    <loc>/tag/intermediate-data/</loc>
     <lastmod>2021-08-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>irfan.github.io/tag/intermediate-results/</loc>
+    <loc>/tag/intermediate-results/</loc>
     <lastmod>2021-08-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>irfan.github.io/tag/machine-learning/</loc>
+    <loc>/tag/machine-learning/</loc>
     <lastmod>2021-08-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>irfan.github.io/tag/relief-efforts/</loc>
+    <loc>/tag/relief-efforts/</loc>
     <lastmod>2021-08-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>irfan.github.io/tag/request-tweets/</loc>
+    <loc>/tag/request-tweets/</loc>
     <lastmod>2021-08-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>irfan.github.io/publication/ullah-2021-rweetminer/</loc>
+    <loc>/publication/ullah-2021-rweetminer/</loc>
     <lastmod>2021-08-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>irfan.github.io/tag/social-networking-sites/</loc>
+    <loc>/tag/social-networking-sites/</loc>
     <lastmod>2021-08-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>irfan.github.io/project/odk-app/</loc>
+    <loc>/project/odk-app/</loc>
     <lastmod>2021-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>irfan.github.io/tag/big-data/</loc>
+    <loc>/tag/big-data/</loc>
     <lastmod>2021-02-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>irfan.github.io/tag/cloud-computing/</loc>
+    <loc>/tag/cloud-computing/</loc>
     <lastmod>2021-02-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>irfan.github.io/tag/cloud-based-video-analytics-system/</loc>
+    <loc>/tag/cloud-based-video-analytics-system/</loc>
     <lastmod>2021-02-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>irfan.github.io/tag/distributed-computing/</loc>
+    <loc>/tag/distributed-computing/</loc>
     <lastmod>2021-02-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>irfan.github.io/tag/intelligent-video-analytics/</loc>
+    <loc>/tag/intelligent-video-analytics/</loc>
     <lastmod>2021-02-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>irfan.github.io/tag/intermediate-results-orchestration/</loc>
+    <loc>/tag/intermediate-results-orchestration/</loc>
     <lastmod>2021-02-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>irfan.github.io/tag/video-analytics-review/</loc>
+    <loc>/tag/video-analytics-review/</loc>
     <lastmod>2021-02-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>irfan.github.io/publication/alam-2021-video/</loc>
+    <loc>/publication/alam-2021-video/</loc>
     <lastmod>2021-02-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>irfan.github.io/tag/academic/</loc>
+    <loc>/tag/academic/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>irfan.github.io/categories/</loc>
+    <loc>/categories/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>irfan.github.io/category/demo/</loc>
+    <loc>/category/demo/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>irfan.github.io/post/</loc>
+    <loc>/post/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>irfan.github.io/post/getting-started/</loc>
+    <loc>/post/getting-started/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>irfan.github.io/tag/%E5%BC%80%E6%BA%90/</loc>
+    <loc>/tag/%E5%BC%80%E6%BA%90/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>irfan.github.io/category/%E6%95%99%E7%A8%8B/</loc>
+    <loc>/category/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>irfan.github.io/post/2020-12-01-r-rmarkdown/</loc>
+    <loc>/post/2020-12-01-r-rmarkdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>irfan.github.io/tag/plot/</loc>
+    <loc>/tag/plot/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>irfan.github.io/category/r/</loc>
+    <loc>/category/r/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>irfan.github.io/tag/r-markdown/</loc>
+    <loc>/tag/r-markdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>irfan.github.io/tag/regression/</loc>
+    <loc>/tag/regression/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>irfan.github.io/tag/big-data-intelligent-video-analytics/</loc>
+    <loc>/tag/big-data-intelligent-video-analytics/</loc>
     <lastmod>2020-08-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>irfan.github.io/tag/deep-learning-distributed-computing/</loc>
+    <loc>/tag/deep-learning-distributed-computing/</loc>
     <lastmod>2020-08-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>irfan.github.io/tag/video-analytics-survey/</loc>
+    <loc>/tag/video-analytics-survey/</loc>
     <lastmod>2020-08-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>irfan.github.io/publication/alam-2020-video-1/</loc>
+    <loc>/publication/alam-2020-video-1/</loc>
     <lastmod>2020-08-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>irfan.github.io/publication/khan-2020-statistical/</loc>
+    <loc>/publication/khan-2020-statistical/</loc>
     <lastmod>2020-06-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>irfan.github.io/publication-type/1/</loc>
+    <loc>/publication-type/1/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>irfan.github.io/publication/khan-2020-improved/</loc>
+    <loc>/publication/khan-2020-improved/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>irfan.github.io/talk/distributed-disaster-response-system-architecture/</loc>
+    <loc>/talk/distributed-disaster-response-system-architecture/</loc>
     <lastmod>2019-11-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>irfan.github.io/event/</loc>
+    <loc>/event/</loc>
     <lastmod>2019-11-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>irfan.github.io/talk/seminar-on-memory-prefetching-for-boosting-execution-performance/</loc>
+    <loc>/talk/seminar-on-memory-prefetching-for-boosting-execution-performance/</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>irfan.github.io/post/writing-technical-content/</loc>
+    <loc>/post/writing-technical-content/</loc>
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>irfan.github.io/project/uams/</loc>
+    <loc>/project/uams/</loc>
     <lastmod>2019-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>irfan.github.io/post/jupyter/</loc>
+    <loc>/post/jupyter/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>irfan.github.io/slides/</loc>
+    <loc>/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>irfan.github.io/slides/example/</loc>
+    <loc>/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>irfan.github.io/publication/alam-2019-higher/</loc>
+    <loc>/publication/alam-2019-higher/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>irfan.github.io/talk/web-scraping-and-nlp-for-data-science-3-days/</loc>
+    <loc>/talk/web-scraping-and-nlp-for-data-science-3-days/</loc>
     <lastmod>2018-08-01T10:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>irfan.github.io/talk/machine-learning-with-python-on-text/</loc>
+    <loc>/talk/machine-learning-with-python-on-text/</loc>
     <lastmod>2018-04-01T12:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>irfan.github.io/tag/nlp/</loc>
+    <loc>/tag/nlp/</loc>
     <lastmod>2018-04-01T12:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>irfan.github.io/tag/python/</loc>
+    <loc>/tag/python/</loc>
     <lastmod>2018-04-01T12:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>irfan.github.io/tag/text-mining/</loc>
+    <loc>/tag/text-mining/</loc>
     <lastmod>2018-04-01T12:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>irfan.github.io/publication/jamil-2016-adaptive/</loc>
+    <loc>/publication/jamil-2016-adaptive/</loc>
     <lastmod>2016-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>irfan.github.io/tag/computer-aided-detection-cad/</loc>
+    <loc>/tag/computer-aided-detection-cad/</loc>
     <lastmod>2016-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>irfan.github.io/tag/intensity-based-thresholding/</loc>
+    <loc>/tag/intensity-based-thresholding/</loc>
     <lastmod>2016-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>irfan.github.io/tag/juxta-pleural-nodules/</loc>
+    <loc>/tag/juxta-pleural-nodules/</loc>
     <lastmod>2016-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>irfan.github.io/tag/lung-cancer/</loc>
+    <loc>/tag/lung-cancer/</loc>
     <lastmod>2016-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>irfan.github.io/tag/segmentation/</loc>
+    <loc>/tag/segmentation/</loc>
     <lastmod>2016-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>irfan.github.io/admin/</loc>
+    <loc>/admin/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>

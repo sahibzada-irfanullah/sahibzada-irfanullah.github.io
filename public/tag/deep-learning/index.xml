@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Deep Learning | Irfan Ullah</title>
-    <link>irfan.github.io/tag/deep-learning/</link>
-      <atom:link href="irfan.github.io/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/deep-learning/</link>
+      <atom:link href="/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Deep Learning</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/irfan.github.io/media/icon_hu8e84cfbdf6271c45f2b184a518b00cf0_391650_512x512_fill_lanczos_center_3.png</url>
+      <url>/media/icon_hu8e84cfbdf6271c45f2b184a518b00cf0_391650_512x512_fill_lanczos_center_3.png</url>
       <title>Deep Learning</title>
-      <link>irfan.github.io/tag/deep-learning/</link>
+      <link>/tag/deep-learning/</link>
     </image>
     
     <item>
       <title>Distributed Disaster Response System</title>
-      <link>irfan.github.io/project/disaster-response/</link>
+      <link>/project/disaster-response/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>irfan.github.io/project/disaster-response/</guid>
+      <guid>/project/disaster-response/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Accuracy Optimization of ODK Scan Tool</title>
-      <link>irfan.github.io/project/odk-app/</link>
+      <link>/project/odk-app/</link>
       <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
-      <guid>irfan.github.io/project/odk-app/</guid>
+      <guid>/project/odk-app/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Video Big Data Analytics in the Cloud: Research Issues and Challenges</title>
-      <link>irfan.github.io/publication/alam-2021-video/</link>
+      <link>/publication/alam-2021-video/</link>
       <pubDate>Sat, 13 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>irfan.github.io/publication/alam-2021-video/</guid>
+      <guid>/publication/alam-2021-video/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to download the Bibtex citation of the paper.
@@ -66,33 +66,33 @@ title = &amp;ldquo;Video big data analytics in the cloud: A reference architectu
     
     <item>
       <title>Distributed Disaster Response System Architecture</title>
-      <link>irfan.github.io/talk/distributed-disaster-response-system-architecture/</link>
+      <link>/talk/distributed-disaster-response-system-architecture/</link>
       <pubDate>Fri, 01 Nov 2019 13:00:00 +0000</pubDate>
-      <guid>irfan.github.io/talk/distributed-disaster-response-system-architecture/</guid>
+      <guid>/talk/distributed-disaster-response-system-architecture/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Seminar on Memory Prefetching for Boosting Execution Performance</title>
-      <link>irfan.github.io/talk/seminar-on-memory-prefetching-for-boosting-execution-performance/</link>
+      <link>/talk/seminar-on-memory-prefetching-for-boosting-execution-performance/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>irfan.github.io/talk/seminar-on-memory-prefetching-for-boosting-execution-performance/</guid>
+      <guid>/talk/seminar-on-memory-prefetching-for-boosting-execution-performance/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Application for Uniformly Accelerated Kinematics</title>
-      <link>irfan.github.io/project/uams/</link>
+      <link>/project/uams/</link>
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>irfan.github.io/project/uams/</guid>
+      <guid>/project/uams/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Web Scraping and NLP for Data Science (3 days)</title>
-      <link>irfan.github.io/talk/web-scraping-and-nlp-for-data-science-3-days/</link>
+      <link>/talk/web-scraping-and-nlp-for-data-science-3-days/</link>
       <pubDate>Wed, 01 Aug 2018 10:00:00 +0000</pubDate>
-      <guid>irfan.github.io/talk/web-scraping-and-nlp-for-data-science-3-days/</guid>
+      <guid>/talk/web-scraping-and-nlp-for-data-science-3-days/</guid>
       <description></description>
     </item>
     
