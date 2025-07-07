@@ -15,7 +15,7 @@ authors:
 - admin
 - Shahid Ikramullah Butt
 date: "2016-10-01T00:00:00Z"
-doi: ""
+doi: http://dx.doi.org/10.14257/ijbsbt.2016.8.5.10
 featured: false
 #image:
 #  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'

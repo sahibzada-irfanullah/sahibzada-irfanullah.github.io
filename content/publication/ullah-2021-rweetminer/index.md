@@ -9,7 +9,7 @@ authors:
 - Muhammad Imran
 - Young-Koo Lee
 date: "2021-08-15T00:00:00Z"
-doi: ""
+doi: https://doi.org/10.1016/j.eswa.2021.114787
 featured: false
 #image:
 #  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
@@ -36,7 +36,7 @@ title: "RweetMiner: Automatic Identification and Categorization of Help Requests
 url_code: https://github.com/sahibzada-irfanullah/Rweet-Miner-for-SNS
 #url_dataset: ""
 url_pdf: https://reader.elsevier.com/reader/sd/pii/S0957417421002281?token=3BA3FACFE55D2A1346124B92ED488A9F0C1B53D94255B594D829A297E415575E7F831DCC3C32C37E3399406DBAE2945B&originRegion=us-east-1&originCreation=20230305080235
-#url_poster: ""
+# url_poster: "featured.png"
 #url_project: ""
 #url_slides: ""
 #url_source: ""

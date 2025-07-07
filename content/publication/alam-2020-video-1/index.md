@@ -9,7 +9,7 @@ authors:
 - admin
 - Young-Koo Lee
 date: "2020-08-17T00:00:00Z"
-doi: ""
+doi: https://doi.org/10.1109/ACCESS.2020.3017135
 featured: false
 #image:
 #  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'

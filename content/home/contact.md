@@ -6,7 +6,7 @@ widget: contact
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 70
 
 title: Contact
 subtitle:
@@ -20,27 +20,27 @@ content:
 #    provider: netlify
 #    formspree:
 #      id:
-#    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-#      captcha: false
+   # netlify:
+   # Enable CAPTCHA challenge to reduce spam?
+   # captcha: true
 
   # Contact details (edit or remove options as required)
-  email: sahibzada dot iu at gmail dot com
+  email: irfan at khu dot ac dot kr
 #  phone: 888 888 88 88
   address:
 #    street: 450 Serra Mall
-#    city: Stanford
-    region: Geyyonggi-do, South Korea
+   city: Kyung-Hee University (KHU), Yeongin-si, South Korea
+    # region: 
 #    postcode: '94305'
-#    country: South Korea
+   # country: Kyung-Hee University (KHU), Yeongin-si, South Korea
 #    country_code: US
 #  coordinates:
 #    latitude: '37.4275'
 #    longitude: '-122.1697'
 #  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-#  office_hours:
-#    - 'Monday 10:00 to 13:00'
-#    - 'Wednesday 09:00 to 10:00'
+ # office_hours:
+ #   - 'Monday 10:00 to 13:00'
+ #   - 'Wednesday 09:00 to 10:00'
 #  appointment_url: 'https://calendly.com'
 #  contact_links:
 #    - icon: twitter

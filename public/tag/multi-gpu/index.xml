@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Multi-GPU | Irfan Ullah</title>
+    <link>irfan.github.io/tag/multi-gpu/</link>
+      <atom:link href="irfan.github.io/tag/multi-gpu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Multi-GPU</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/irfan.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Multi-GPU</title>
+      <link>irfan.github.io/tag/multi-gpu/</link>
+    </image>
+    
+    <item>
+      <title>MQ-GNN: A Multi-Queue Pipelined Architecture for Scalable and Efficient GNN Training</title>
+      <link>irfan.github.io/publication/irfan-2025-mqgnn/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>irfan.github.io/publication/irfan-2025-mqgnn/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to download the Bibtex citation of the paper.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;PDF&lt;/em&gt; button above to download the paper.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

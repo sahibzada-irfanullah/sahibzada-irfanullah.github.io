@@ -13,7 +13,7 @@ authors:
 - Aftab Alam
 - Young-Koo Lee
 date: "2022-01-31T00:00:00Z"
-doi: ""
+doi: https://doi.org/10.1109/ACCESS.2022.3148126
 featured: false
 #image:
 #  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'

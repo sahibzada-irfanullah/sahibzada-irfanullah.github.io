@@ -7,7 +7,7 @@ author_notes:
 authors:
 - Muhammad Jibran Khan
 - Muhammad Aman Khan
-- Irfan Ullah
+- admin
 date: "2020-06-30T00:00:00Z"
 doi: ""
 featured: false
